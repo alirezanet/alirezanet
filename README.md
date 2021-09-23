@@ -1,5 +1,13 @@
 ### Hi there 👋, I'm AliReza Sabouri
 
+#### Connect with me:
+
+[<img align="left" alt="alirezanet | LinkedIn" width="22px" src="https://cdn.cdnlogo.com/logos/l/78/linkedin-icon.svg" />][linkedin]
+[<img align="left" alt="alirezanet | Instagram" width="22px" src="https://cdn.cdnlogo.com/logos/i/32/instagram-icon.svg" />][instagram]
+</br>
+
+---
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alirezanet&show_icons=true&theme=tokyonight)
 ](https://github.com/anuraghazra/github-readme-stats)
 
@@ -18,3 +26,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[instagram]: https://instagram.com/alirezaneti
+[linkedin]: https://linkedin.com/in/alirezanet
