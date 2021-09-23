@@ -1,6 +1,7 @@
 ### Hi there 👋, I'm AliReza Sabouri
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alirezanet)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alirezanet&show_icons=true&theme=tokyonight)
+](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
