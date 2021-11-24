@@ -2,6 +2,7 @@
 
 #### Connect with me:
 
+[<img align="left" alt="alirezanett" width="22px" src="https://cdn.cdnlogo.com/logos/t/96/twitter-icon.svg" />][twitter]
 [<img align="left" alt="alirezanet | LinkedIn" width="22px" src="https://cdn.cdnlogo.com/logos/l/78/linkedin-icon.svg" />][linkedin]
 [<img align="left" alt="alirezaneti | Instagram" width="22px" src="https://cdn.cdnlogo.com/logos/i/32/instagram-icon.svg" />][instagram]
 [<img align="left" alt="chat via microsoft team | Teams" width="22px" src="https://cdn.cdnlogo.com/logos/m/62/microsoft-teams.svg" />][teams]
@@ -28,6 +29,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[twitter]: https://twitter.com/alirezanett
 [instagram]: https://instagram.com/alirezaneti
 [teams]: https://teams.microsoft.com/l/chat/0/0?users=alirezanet@outlook.com
 [linkedin]: https://linkedin.com/in/alirezanet
