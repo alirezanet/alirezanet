@@ -10,7 +10,7 @@
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alirezanet&show_icons=true&theme=tokyonight)
+[![Alirezanet's GitHub stats](https://github-readme-stats-alirezanet.vercel.app/api?username=alirezanet&show_icons=true&theme=tokyonight)
 ](#)
 
 
