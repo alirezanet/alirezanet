@@ -33,3 +33,6 @@ Here are some ideas to get you started:
 [instagram]: https://instagram.com/alirezaneti
 [teams]: https://teams.microsoft.com/l/chat/0/0?users=alirezanet@outlook.com
 [linkedin]: https://linkedin.com/in/alirezanet
+
+![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alirezanet&show_icons=true&langs_count=3&theme=radical)
+<img align="right" src="https://komarev.com/ghpvc/?username=alirezanet&style=for-the-badge" alt="viewer" />
